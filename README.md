@@ -16,7 +16,7 @@ A mains voltage heated bed that outputs 500 W of heat (3 minutes heatup time to 
 - [x] compatible to most MK2/B heated beds in terms of endstop position
 - [x] added 110 and 230 V~ compatibility by wiring options
 - [x] added thermal fuse
-- [x] added led overcurrent fuse
+- [x] added LED overcurrent fuse
 - [x] added warnings, wiring and instructions to the silkscreen
 - [ ] not tested
 - [ ] cannot be considered safe yet
