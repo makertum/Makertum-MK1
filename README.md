@@ -27,8 +27,8 @@ A mains voltage heated bed that outputs 500 W of heat (3 minutes heatup time to 
 - Operation Voltages:	230 V~ (110 V~ over a center tap)
 - Resistance:	~106 Ω
 - Trace length: about 402 x 200 mm = ~80,800 mm
-- Copper thickness (on PCB):	1oz aka 1,37 mil aka 35 µm
-- Trace width:	0,37 mm
+- Copper thickness (on PCB):	1oz aka 1.37 mil aka 35 µm
+- Trace width:	0.37 mm
 - Safety features: fused power indicator LED with protective polycarbonat cover, thermal fuse
 
 ## How to use
