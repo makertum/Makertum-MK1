@@ -21,6 +21,15 @@ A mains voltage heated bed that outputs 500 W of heat (3 minutes heatup time to 
 - [ ] cannot be considered safe yet
 - [ ] milled polycarbonat led/fuse cover is in preparation but not yet done
 
+## Specifications
+- Power consumption:	500 W (230 V~) or 460 (110 V~)
+- Operation Voltages:	230 V~ (110 V~ over a center tap)
+- Resistance:	106 Ω
+- Trace length: 402 x 200 mm = 80,800 mm
+- Copper thickness (on PCB):	1oz aka 1,37 mil aka 35 µm
+- Trace width:	0,37 mm
+- Safety features: fused power indicator LED with protective polycarbonat cover, thermal fuse
+
 ## How to use
 Know what you do. Solder components as described in the BOM, make sure no excess solder can cause shorts of any kind. Wire as instructed on the backside of the PCB, do not use without professional supervision and appropriate safety precautions. Do not use without closed loop temperature control, i.e. with a thermistor/thermocouple and SSR, since the thermal fuse is supposedly a safety feature rather than a means of temperature control.
 
