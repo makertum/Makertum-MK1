@@ -12,6 +12,7 @@ ELECTRONIC COMPONENTS
 1x SMD resistor 0805, 1 kΩ [Rled]
 1x Picofuse 0,063 A http://cdn-reichelt.de/documents/datenblatt/C400/PICO_ESK.pdf [Fled]
 1x thermistor
+1x 5x20mm 3A slow blow fuse
 
 WIRING
 5x cable lug M3
@@ -21,4 +22,5 @@ WIRING
 1x piece of wire for bridging, min. AWG 24
 2x connection wires, min. AWG 24
 1x thermistor connection wires
+1x 5x20mm cable current fuse holder
 1x DA-Solid State Relay (SSR), min. 5 A, recommended 20 A
