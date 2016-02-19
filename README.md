@@ -42,4 +42,4 @@ IMHO, it’s pretty much nuts to convert down mains voltage in a power supply to
 I am not responsible for the outcome of what you do with this information. As said, this is a highly experimental and untested prototype.
 
 ## License
-Created by Moritz Walter 2015, released under [CC-BY-NC-SA]: http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode
+Created by Moritz Walter 2015, released under [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
