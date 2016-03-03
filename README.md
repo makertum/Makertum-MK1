@@ -21,7 +21,7 @@ The Makertum MK1 is a mains voltage heated bed for 3D printers with dual voltage
 - [x] added milled polycarbonat led/fuse cover
 - [x] picked license [CC-BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode)
 - [x] manufactured beta batch on FR4
-- [x] stress tested beta batch (FR4) on 110 °C for 30 days without visible damage
+- [x] stress tested beta batch (FR4) on 110 °C for 30 days without visible damage, slight darkening of solder mask has been observed
 - [x] stress tested beta batch (FR4) on 130 °C for 30 days with slight yellowing of silkscreen
 - [x] started shipping beta kits to beta testers now (get yours on [makertum.com](http://www.makertum.com/en/shop))
 - [ ] beta testing is in progress, but not completed
