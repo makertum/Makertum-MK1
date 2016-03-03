@@ -1,5 +1,5 @@
 # 230 / 110 V~ Heated Bed
-A mains voltage heated bed that outputs 500 W of heat (3 minutes heatup time to 110 °C), works for 230 V~ and 110 V~ and also features the good old power status LED.
+A mains voltage heated bed that outputs 500 W of heat (2 minutes heatup time to 110 °C), works for 230 V~ and 110 V~ and also features the good old power status LED.
 
 ![render of top](https://cdn.hackaday.io/images/7579811449431756922.png)
 ![render of bottom side](https://cdn.hackaday.io/images/5494491449432442830.png)
